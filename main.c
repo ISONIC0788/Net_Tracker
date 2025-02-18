@@ -5,5 +5,6 @@ int main(){
 	printf("please Enter your name Here\n");
 	scanf("%s",&name);
 	printf("I'm Exctiry To Meet with you::\'%s\'",name);
+	printf("OK let continue ");
 	return 0 ;
 }
